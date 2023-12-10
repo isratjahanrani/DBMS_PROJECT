@@ -160,7 +160,7 @@ if(!empty($Poster_Name) && !empty($Mobile_Number))
                 <input
                   type="number"
                   name="Kitchen"
-                  placeholder="Enter Number of Balcony"
+                  placeholder="Enter Number of Kitchen"
                   required
                 />
               </div>

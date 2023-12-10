@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 08, 2023 at 07:24 PM
+-- Generation Time: Dec 09, 2023 at 06:15 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -220,6 +220,7 @@ CREATE TABLE `student` (
 
 INSERT INTO `student` (`S_id`, `University_id`, `University_email`, `Personal_email`, `Password`, `Department`, `Present_address`, `Permanent_address`, `Contact_number`, `Occupation`, `Name`) VALUES
 ('10255', '021202', 'robiulislamtamim12345@gmail.com', 'saifawal793@gmail.com', '011212039', 'ahgda', 'narayangonj', 'narayangonj', '01254536', 0, 'Robiul Islam Tamim'),
+('30303387112018444', '011585456', 'robiulislamtamim12345@gmail.com', 'saifawal793@gmail.com', '545242142', 'CSE', 'narayangonj', 'narayangonjdfsa', '0125453655', 0, 'Robiul Islam Tamim'),
 ('35321', '01215', 'islam@gmail', 'saifawal793@gmail.com', '89752', 'CSE', 'narayangonj', 'narayangonj', '65423', 0, 'islam');
 
 --
